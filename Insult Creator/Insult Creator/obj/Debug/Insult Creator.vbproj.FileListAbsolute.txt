@@ -1,0 +1,11 @@
+C:\Users\jaabi\source\repos\Insult Creator\Insult Creator\bin\Debug\Insult Creator.exe.config
+C:\Users\jaabi\source\repos\Insult Creator\Insult Creator\bin\Debug\Insult Creator.exe
+C:\Users\jaabi\source\repos\Insult Creator\Insult Creator\bin\Debug\Insult Creator.pdb
+C:\Users\jaabi\source\repos\Insult Creator\Insult Creator\bin\Debug\Insult Creator.xml
+C:\Users\jaabi\source\repos\Insult Creator\Insult Creator\obj\Debug\Insult Creator.vbprojAssemblyReference.cache
+C:\Users\jaabi\source\repos\Insult Creator\Insult Creator\obj\Debug\Insult_Creator.Form1.resources
+C:\Users\jaabi\source\repos\Insult Creator\Insult Creator\obj\Debug\Insult_Creator.Resources.resources
+C:\Users\jaabi\source\repos\Insult Creator\Insult Creator\obj\Debug\Insult Creator.vbproj.GenerateResource.cache
+C:\Users\jaabi\source\repos\Insult Creator\Insult Creator\obj\Debug\Insult Creator.exe
+C:\Users\jaabi\source\repos\Insult Creator\Insult Creator\obj\Debug\Insult Creator.xml
+C:\Users\jaabi\source\repos\Insult Creator\Insult Creator\obj\Debug\Insult Creator.pdb
